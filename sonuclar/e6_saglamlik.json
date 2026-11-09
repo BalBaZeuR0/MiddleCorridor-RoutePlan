@@ -1,0 +1,18 @@
+{
+ "cekilis": 2000,
+ "aralik": 0.3,
+ "S2_btk_suveysten_hizli": 0.6945,
+ "S6_btk_en_hizli": 0.9595,
+ "S5_btk_umitten_hizli": 0.295,
+ "S2_suveys_eksi_btk_gun": {
+  "p05": -6.83267524908279,
+  "medyan": 3.433264905286549,
+  "p95": 14.126187033591016
+ },
+ "S6_umit_eksi_btk_gun": {
+  "p05": 0.23970521405485812,
+  "medyan": 12.131562325997066,
+  "p95": 25.726309472016673
+ },
+ "basabas_bekleme_azalimi": 0.4113286524690972
+}

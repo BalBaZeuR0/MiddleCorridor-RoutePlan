@@ -1,0 +1,237 @@
+{
+ "S1": {
+  "cozumler": [
+   {
+    "maliyet": 2667.6459496823713,
+    "sure": 42.053747505841244,
+    "co2": 3964.1363347872834,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 2894.4660311355524,
+    "sure": 42.008773950474655,
+    "co2": 4223.913314596678,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –K→ Duisburg"
+   },
+   {
+    "maliyet": 3561.520622450197,
+    "sure": 39.52519305635399,
+    "co2": 4186.084561312589,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Köstence –D→ Duisburg"
+   },
+   {
+    "maliyet": 5736.476390972992,
+    "sure": 39.09394599459092,
+    "co2": 6677.060832664016,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Köstence –K→ Duisburg"
+   },
+   {
+    "maliyet": 5810.983108033488,
+    "sure": 20.72575933025196,
+    "co2": 4415.600463186518,
+    "koridor": "Kuzey Koridoru",
+    "rota": "Xi'an –D→ Duisburg"
+   }
+  ],
+  "genisletilen_bilgisiz": 173,
+  "genisletilen_bd": 104,
+  "ms_bilgisiz": 2.4696999998923275,
+  "ms_bd": 1.1555000000953441
+ },
+ "S2": {
+  "cozumler": [
+   {
+    "maliyet": 2667.6459496823713,
+    "sure": 42.053747505841244,
+    "co2": 3964.1363347872834,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 2894.4660311355524,
+    "sure": 42.008773950474655,
+    "co2": 4223.913314596678,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –K→ Duisburg"
+   },
+   {
+    "maliyet": 3561.520622450197,
+    "sure": 39.52519305635399,
+    "co2": 4186.084561312589,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Köstence –D→ Duisburg"
+   },
+   {
+    "maliyet": 5736.476390972992,
+    "sure": 39.09394599459092,
+    "co2": 6677.060832664016,
+    "koridor": "Deniz – Süveyş",
+    "rota": "Xi'an –D→ Şanghay –O→ Köstence –K→ Duisburg"
+   },
+   {
+    "maliyet": 5810.983108033488,
+    "sure": 20.72575933025196,
+    "co2": 4415.600463186518,
+    "koridor": "Kuzey Koridoru",
+    "rota": "Xi'an –D→ Duisburg"
+   }
+  ],
+  "genisletilen_bilgisiz": 217,
+  "genisletilen_bd": 134,
+  "ms_bilgisiz": 3.3238999999412044,
+  "ms_bd": 1.8285999999534397
+ },
+ "S5": {
+  "cozumler": [
+   {
+    "maliyet": 3086.533039680149,
+    "sure": 50.759305860105655,
+    "co2": 4954.714658576967,
+    "koridor": "Deniz – Ümit Burnu",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 3313.35312113333,
+    "sure": 50.71433230473907,
+    "co2": 5214.491638386361,
+    "koridor": "Deniz – Ümit Burnu",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –K→ Duisburg"
+   },
+   {
+    "maliyet": 6592.6142909082455,
+    "sure": 79.56537559482355,
+    "co2": 4736.065836209782,
+    "koridor": "Orta Koridor – Karadeniz geçişi",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Poti –F→ Köstence –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 7204.289911638483,
+    "sure": 68.74635017200117,
+    "co2": 4645.391595963253,
+    "koridor": "Orta Koridor – Karadeniz geçişi",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Poti –F→ Köstence –D→ Duisburg"
+   },
+   {
+    "maliyet": 7363.336975511181,
+    "sure": 66.06461454705035,
+    "co2": 4884.801410638565,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Samsun –F→ Köstence –D→ Duisburg"
+   }
+  ],
+  "genisletilen_bilgisiz": 358,
+  "genisletilen_bd": 225,
+  "ms_bilgisiz": 6.37349999988146,
+  "ms_bd": 3.22520000008808
+ },
+ "S6": {
+  "cozumler": [
+   {
+    "maliyet": 3086.533039680149,
+    "sure": 50.759305860105655,
+    "co2": 4954.714658576967,
+    "koridor": "Deniz – Ümit Burnu",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 3313.35312113333,
+    "sure": 50.71433230473907,
+    "co2": 5214.491638386361,
+    "koridor": "Deniz – Ümit Burnu",
+    "rota": "Xi'an –D→ Şanghay –O→ Rotterdam –K→ Duisburg"
+   },
+   {
+    "maliyet": 6592.6142909082455,
+    "sure": 58.00865862836433,
+    "co2": 4736.065836209782,
+    "koridor": "Orta Koridor – Karadeniz geçişi",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Poti –F→ Köstence –O→ Rotterdam –D→ Duisburg"
+   },
+   {
+    "maliyet": 7204.289911638483,
+    "sure": 47.18963320554195,
+    "co2": 4645.391595963253,
+    "koridor": "Orta Koridor – Karadeniz geçişi",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Poti –F→ Köstence –D→ Duisburg"
+   },
+   {
+    "maliyet": 7294.280694001796,
+    "sure": 38.822844990409266,
+    "co2": 5104.587812614776,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –D→ Duisburg"
+   },
+   {
+    "maliyet": 7943.824129614795,
+    "sure": 38.46784788932379,
+    "co2": 5711.073770560395,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Tiflis –D→ Duisburg"
+   },
+   {
+    "maliyet": 8154.677672077174,
+    "sure": 38.38111770043356,
+    "co2": 5958.19207993441,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Kars –D→ Duisburg"
+   },
+   {
+    "maliyet": 8362.475382388433,
+    "sure": 38.33991587310919,
+    "co2": 6196.182743063188,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Erzurum –D→ Duisburg"
+   },
+   {
+    "maliyet": 8797.04147892798,
+    "sure": 38.25375074047213,
+    "co2": 6693.89117947385,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Sivas –D→ Duisburg"
+   },
+   {
+    "maliyet": 9222.539278874367,
+    "sure": 38.16938365647475,
+    "co2": 7181.213698174337,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Ankara –D→ Duisburg"
+   },
+   {
+    "maliyet": 9660.431560539802,
+    "sure": 37.58255901269581,
+    "co2": 7682.731613537455,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ İstanbul –D→ Duisburg"
+   },
+   {
+    "maliyet": 10245.420226768547,
+    "sure": 37.466568312044835,
+    "co2": 8352.718979567904,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Sofya –D→ Duisburg"
+   },
+   {
+    "maliyet": 10999.528666713582,
+    "sure": 37.31704478899963,
+    "co2": 9216.399178087417,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Budapeşte –D→ Duisburg"
+   },
+   {
+    "maliyet": 12060.792828410256,
+    "sure": 36.08282545163642,
+    "co2": 10569.300712716216,
+    "koridor": "Orta Koridor – Türkiye (BTK)",
+    "rota": "Xi'an –D→ Kuryk –F→ Bakü/Alat –K→ Duisburg"
+   }
+  ],
+  "genisletilen_bilgisiz": 447,
+  "genisletilen_bd": 383,
+  "ms_bilgisiz": 10.093200000028446,
+  "ms_bd": 7.892700000411423
+ }
+}

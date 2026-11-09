@@ -1,0 +1,133 @@
+{
+  "lang": "en",
+  "nodes": {
+    "wb": {
+      "label": "World Bank (2023)\nport dwell, borders,\ntariffs",
+      "pos": [
+        0,
+        0
+      ],
+      "kind": "data",
+      "w": 2.4,
+      "h": 1.1
+    },
+    "ne": {
+      "label": "Natural Earth\nbasemap",
+      "pos": [
+        0,
+        6
+      ],
+      "kind": "data"
+    },
+    "net": {
+      "label": "Network model\n43 nodes, 77 links\n(ag.py)",
+      "pos": [
+        3,
+        0
+      ],
+      "kind": "process",
+      "w": 2.4,
+      "h": 1.1
+    },
+    "cal": {
+      "label": "Calibration\nalpha = 0.79\n(koridorlar.py)",
+      "pos": [
+        6,
+        0
+      ],
+      "kind": "process",
+      "w": 2.4,
+      "h": 1.1
+    },
+    "sg": {
+      "label": "State graph\n(node, mode)\n78 states",
+      "pos": [
+        6,
+        2
+      ],
+      "kind": "process",
+      "w": 2.4,
+      "h": 1.1
+    },
+    "alg": {
+      "label": "Dijkstra, A*,\nALT, NAMOA*\n(algoritmalar.py)",
+      "pos": [
+        3,
+        2
+      ],
+      "kind": "model",
+      "w": 2.4,
+      "h": 1.1
+    },
+    "exp": {
+      "label": "Experiments E1-E5\n(deneyler.py)",
+      "pos": [
+        3,
+        4
+      ],
+      "kind": "process",
+      "w": 2.4
+    },
+    "json": {
+      "label": "Results\nsonuclar/*.json",
+      "pos": [
+        6,
+        4
+      ],
+      "kind": "output"
+    },
+    "fig": {
+      "label": "Figures\n(sekiller*.py)",
+      "pos": [
+        3,
+        6
+      ],
+      "kind": "output"
+    }
+  },
+  "edges": [
+    [
+      "wb",
+      "net"
+    ],
+    [
+      "net",
+      "cal"
+    ],
+    [
+      "cal",
+      "sg"
+    ],
+    [
+      "sg",
+      "alg"
+    ],
+    [
+      "alg",
+      "exp"
+    ],
+    [
+      "exp",
+      "json"
+    ],
+    [
+      "json",
+      "fig"
+    ],
+    {
+      "from": "ne",
+      "to": "fig",
+      "style": "dashed"
+    }
+  ],
+  "groups": [
+    {
+      "label": "search core",
+      "nodes": [
+        "alg",
+        "sg"
+      ],
+      "label_at": "top"
+    }
+  ]
+}

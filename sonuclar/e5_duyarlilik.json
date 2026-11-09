@@ -1,0 +1,1442 @@
+[
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": -11.455560095637786
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 11.455560095637802
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 34.585862239773704
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": -18.623156590647344
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Kuzey Koridoru",
+  "degisti": true,
+  "deger_degisim_%": -22.027900576824592
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 5.857820941754599
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": -24.14217905824537
+ },
+ {
+  "senaryo": "S1",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Kuzey Koridoru",
+  "degisti": true,
+  "deger_degisim_%": 11.38871346167917
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": -11.455560095637786
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 11.455560095637802
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 34.585862239773704
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": -18.623156590647344
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Kuzey Koridoru",
+  "yeni": "Kuzey Koridoru",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Kuzey Koridoru",
+  "degisti": true,
+  "deger_degisim_%": -22.027900576824592
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": 5.857820941754599
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Deniz – Süveyş",
+  "degisti": false,
+  "deger_degisim_%": -24.14217905824537
+ },
+ {
+  "senaryo": "S2",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Süveyş",
+  "yeni": "Kuzey Koridoru",
+  "degisti": true,
+  "deger_degisim_%": 11.38871346167917
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": -9.900875220709752
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 9.900875220709764
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "maliyet",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Deniz – Ümit Burnu",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 12.412103737965158
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": -6.683440474288925
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": -11.68606908284861
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 11.686069082848618
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "sure",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Türkiye (BTK)",
+  "yeni": "Orta Koridor – Türkiye (BTK)",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Karayolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Kısa deniz birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu birim maliyeti",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu hızı",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Okyanus hızı",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Liman bekleme (α)",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": -26.77943548474246
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Demiryolu CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": true,
+  "deger_degisim_%": 11.657468693557922
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 0.7,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Deniz – Ümit Burnu",
+  "degisti": true,
+  "deger_degisim_%": -20.340143711492107
+ },
+ {
+  "senaryo": "S6",
+  "amac": "co2",
+  "parametre": "Okyanus CO2 yoğunluğu",
+  "carpan": 1.3,
+  "referans": "Orta Koridor – Karadeniz geçişi",
+  "yeni": "Orta Koridor – Karadeniz geçişi",
+  "degisti": false,
+  "deger_degisim_%": 0.0
+ }
+]

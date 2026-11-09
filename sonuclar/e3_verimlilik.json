@@ -1,0 +1,56 @@
+{
+ "maliyet": {
+  "sorgu": 992,
+  "landmarklar": [
+   "Dostyk/demiryolu",
+   "Budapeşte/karayolu",
+   "Bakü/Alat/karayolu",
+   "Moskova/demiryolu",
+   "Şanghay/demiryolu",
+   "Samsun/karayolu"
+  ],
+  "on_hesap_ms": 1.8359000000600645,
+  "ort_genis_dijkstra": 43.180443548387096,
+  "ort_genis_astar_bd": 40.05443548387097,
+  "ort_genis_alt": 12.44758064516129,
+  "ort_h_kalite_bd": 0.11674569673880661,
+  "ort_h_kalite_alt": 0.9639784185147773,
+  "durum_sayisi": 78
+ },
+ "sure": {
+  "sorgu": 992,
+  "landmarklar": [
+   "Şanghay/demiryolu",
+   "Bakü/Alat/demiryolu",
+   "Aktau/kisa_deniz",
+   "Rotterdam/okyanus",
+   "Batum/kisa_deniz",
+   "Moskova/demiryolu"
+  ],
+  "on_hesap_ms": 1.7869000002974644,
+  "ort_genis_dijkstra": 36.190524193548384,
+  "ort_genis_astar_bd": 29.263104838709676,
+  "ort_genis_alt": 11.29133064516129,
+  "ort_h_kalite_bd": 0.40432638115559405,
+  "ort_h_kalite_alt": 0.9619191862882139,
+  "durum_sayisi": 78
+ },
+ "co2": {
+  "sorgu": 992,
+  "landmarklar": [
+   "Xi'an/demiryolu",
+   "Duisburg/demiryolu",
+   "Aktau/demiryolu",
+   "Dostyk/demiryolu",
+   "Kapıkule/karayolu",
+   "Moskova/demiryolu"
+  ],
+  "on_hesap_ms": 1.593699999830278,
+  "ort_genis_dijkstra": 44.225806451612904,
+  "ort_genis_astar_bd": 37.52116935483871,
+  "ort_genis_alt": 15.476814516129032,
+  "ort_h_kalite_bd": 0.30098140708810556,
+  "ort_h_kalite_alt": 0.9586330004028022,
+  "durum_sayisi": 78
+ }
+}
